@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
-<a href="https://instagram.com/_khushboo.goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-gupta-713030220" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh gupta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=p08y0zvhvvl5&utm_content=37sxc1h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.harsh__22" height="30" width="40" /></a>
 
 </p>
 
