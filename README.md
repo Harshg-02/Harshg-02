@@ -21,9 +21,9 @@
 
 
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshg-02&show_icons=true&locale=en&layout=compact" alt="Harshg-02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshg-02&show_icons=true&locale=en" alt="Harshg-02" /></p>
 
 
 
